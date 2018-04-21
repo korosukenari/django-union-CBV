@@ -1,5 +1,5 @@
 =====================
-django-moreadd-sample
+django-union-CSV
 =====================
 ListView+CreateView、DetailView+CreateViewなどです。cloneして、python manage.py runserverをしてください。
 
